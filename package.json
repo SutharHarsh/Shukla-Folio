@@ -20,6 +20,7 @@
     "core-js": "^3.41.0",
     "debug": "^4.3.1",
     "framer-motion": "^11.0.25",
+    "grep": "^0.1.0",
     "lottie-react": "^2.4.1",
     "lucide-react": "^0.365.0",
     "mini-svg-data-uri": "^1.4.4",
